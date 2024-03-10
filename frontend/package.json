@@ -1,6 +1,8 @@
 {
   "name": "ar_ticles_frontend",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "This repository is responsible for the visual part of the AR_ticles project",
+  "author": "Dmitry Ustinov <ustinnov.ru>",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

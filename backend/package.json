@@ -1,13 +1,13 @@
 {
   "name": "ar_ticles_backend",
   "version": "1.0.0",
-  "description": "This repository manages the comments of the Ar_ticles project",
+  "description": "This repository is responsible for the server side of the AR_ticles project",
+  "author": "Dmitry Ustinov <ustinnov.ru>",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "Dmitry Ustinov <ustinnov.ru>",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
