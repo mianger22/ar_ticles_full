@@ -1,0 +1,19 @@
+{
+  "name": "ar_ticles_back",
+  "version": "1.0.0",
+  "description": "This repository manages the comments of the Ar_ticles project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Dmitry Ustinov <ustinnov.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13",
+    "sqlite3": "^5.0.2"
+  }
+}
